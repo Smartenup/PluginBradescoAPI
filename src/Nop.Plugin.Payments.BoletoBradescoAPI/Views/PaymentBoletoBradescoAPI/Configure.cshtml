@@ -1,0 +1,120 @@
+﻿@{
+    Layout = "";
+}
+@model ConfigurationModel
+@using Nop.Plugin.Payments.BoletoBradescoAPI.Models;
+@using Nop.Web.Framework;
+@Html.Action("StoreScopeConfiguration", "Setting", new { area = "Admin" })
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="panel-group">
+        <div class="panel panel-default">
+            <div class="panel-body">
+
+                <fieldset>
+                    <legend>Instruções de configuração</legend>
+
+                    1. Peça para criar uma loja para integração e-commerce com o Bradesco com o seu gerente de conta Bradesdco<br />
+                    2. Digite no campo Número Loja abaixo, o número que recebido na documentação de cadastrado no Bradesco<br />
+
+                    <p>No site do Bradesco faça as seguintes configurações de acordo com o manual de integração</p>
+
+                    <p>Você está pronto para começar a gerar o boleto via Bradesco!</p>
+                </fieldset>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.AmbienteProducao)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.AmbienteProducao)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.EmailAdministrativo)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.EmailAdministrativo)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.NomeSacado)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.NomeSacado)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.NumeroLoja)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.NumeroLoja)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.ChaveSeguranca)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.ChaveSeguranca)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.NumeroDiasAdicionaisVencimentoBoleto)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.NumeroDiasAdicionaisVencimentoBoleto)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.Carteira)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.Carteira)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.NomeProdutoUnico)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.NomeProdutoUnico)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.ModoDebug)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.ModoDebug)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.LabelFor(model => model.AdicionarNotaPrazoFabricaoEnvio)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.AdicionarNotaPrazoFabricaoEnvio)
+                    </div>
+                </div>
+                <p>
+                    ** Em caso de dúvidas, problemas ou sugestões, entre em contato com: <a href="mailto:pedrousinskas@smartenup.com.br"> pedrousinskas@smartenup.com.br</a>
+                </p>
+                <br />
+                <div class="form-group">
+                    <div class="col-md-3">
+                        &nbsp;
+                    </div>
+                    <div class="col-md-9">
+                        <input type="submit" name="save" class="btn bg-blue" value="@T("Admin.Common.Save")" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

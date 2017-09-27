@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: Boleto Bradesco API
+SystemName: Payments.BoletoBradescoAPI
+Version: 1.00
+SupportedVersions: 3.80
+Author: Pedro Usinskas/Smartenup
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.BoletoBradescoAPI.dll

@@ -1,0 +1,99 @@
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\Description.txt
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\Views\PaymentBradesco\Configure.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\logo.jpg
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\web.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.csprojResolveAssemblyReference.cache
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payment.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Description.txt
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Views\PaymentBradesco\Configure.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\web.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\logo.jpg
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.csprojResolveAssemblyReference.cache
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\logo.jpg
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\web.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Description.txt
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Views\PaymentBradesco\Configure.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.Helpers.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.Mvc.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.Razor.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.WebPages.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.Helpers.xml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.Mvc.xml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.Razor.xml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.WebPages.xml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.csprojResolveAssemblyReference.cache
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Description.txt
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\Configure.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\logo.jpg
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\web.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\Configure.cshtml
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\logo.jpg
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\web.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Description.txt
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.csprojResolveAssemblyReference.cache
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\1055T\ImperioDaDanca\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\Configure.cshtml
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\logo.jpg
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\web.config
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Description.txt
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\Configure.cshtml
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\logo.jpg
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\web.config
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Description.txt
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nopCommerce_3.8_Source_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\Configure.cshtml
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\logo.jpg
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\web.config
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\Description.txt
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\uiska\Source\Repos\nopCommerce_03_09_SU\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\PaymentInfo.cshtml
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Views\PaymentBradesco\Configure.cshtml
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\logo.jpg
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\web.config
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Description.txt
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll.config
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\nop_3.8_20161128\Presentation\Nop.Web\Plugins\Payments.Bradesco\Nop.Plugin.Payments.Bradesco.pdb
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\PluginBradesco\src\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.csprojResolveAssemblyReference.cache
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\PluginBradesco\src\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.dll
+C:\Users\uiska\Documents\Visual Studio 2015\Projects\PluginBradesco\src\Nop.Plugin.Payments.Bradesco\obj\Debug\Nop.Plugin.Payments.Bradesco.pdb
