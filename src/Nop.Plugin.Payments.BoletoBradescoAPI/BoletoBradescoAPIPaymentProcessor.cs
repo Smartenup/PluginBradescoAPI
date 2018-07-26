@@ -5,6 +5,7 @@ using Nop.Core.Domain.Customers;
 using Nop.Core.Domain.Directory;
 using Nop.Core.Domain.Orders;
 using Nop.Core.Domain.Payments;
+using Nop.Core.Domain.Tasks;
 using Nop.Core.Plugins;
 using Nop.Plugin.Payments.BoletoBradescoAPI.Controllers;
 using Nop.Plugin.Payments.BoletoBradescoAPI.Models.Message;
@@ -27,13 +28,12 @@ using Nop.Web.Framework.Themes;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Web;
 using System.Web.Routing;
-using System.Linq;
-using Nop.Core.Domain.Tasks;
 
 namespace Nop.Plugin.Payments.BoletoBradescoAPI
 {
@@ -324,11 +324,11 @@ namespace Nop.Plugin.Payments.BoletoBradescoAPI
         {
             if (!ExisteNota(serviceResponse.Boleto.LinhaDigitavel, postProcessPaymentRequest.Order))
                 AddOrderNote("Boleto - Linha digitável " + serviceResponse.Boleto.LinhaDigitavel, true,
-                    postProcessPaymentRequest.Order);
+                    postProcessPaymentRequest.Order, true);
 
             if (!ExisteNota(serviceResponse.Boleto.LinhaDigitavelFormatada, postProcessPaymentRequest.Order))
                 AddOrderNote("Boleto - Linha digitável formatada " + serviceResponse.Boleto.LinhaDigitavelFormatada,
-                    true, postProcessPaymentRequest.Order);
+                    true, postProcessPaymentRequest.Order, true);
         }
 
         private void VerificarResponse(ServiceResponse serviceResponse)
